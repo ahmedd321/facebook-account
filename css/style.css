@@ -1,0 +1,39 @@
+*{
+    margin: 1px;
+    padding: 0px;
+}
+#abc input{
+    color:rgb(254, 254, 254);
+    background-color: rgb(15, 129, 210);
+    font-size: 35px;
+    padding: 0px;
+    text-align: ;
+    border: 50;
+}
+#abc{
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    padding: ;
+    margin: ;
+    background-color: rgb(252, 250, 250);
+}
+#abc p{
+text-align: ;
+font-size: 15px;
+color: rgb(95, 94, 94);
+}
+
+#abc a{
+    font-size: 35px;
+color: rgb(57, 57, 57);}
+{
+    text-align: center;
+}
+input[type="image" i] {
+    font-size:0px;
+    width: 250px;
+    text-align: center;
+    margin: 2px;
+    padding: 0%;
+}
